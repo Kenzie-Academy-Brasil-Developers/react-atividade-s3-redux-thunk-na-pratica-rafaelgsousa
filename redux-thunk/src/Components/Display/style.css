@@ -1,0 +1,18 @@
+.display {
+    margin: 5px;
+}
+
+.caixa{
+    list-style: none;
+    width: 300px;
+    padding: 5px;
+}
+
+.message{
+    margin: 2px;
+    background-color: aqua;
+    padding: 3px;
+    border-radius: 5px;
+    color: black;
+    font-size: 15px;
+}
